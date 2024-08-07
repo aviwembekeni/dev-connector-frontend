@@ -36,5 +36,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://developer-connector-production.up.railway.app/"
+  "proxy": "https://dev-connector-service.onrender.com/"
 }
